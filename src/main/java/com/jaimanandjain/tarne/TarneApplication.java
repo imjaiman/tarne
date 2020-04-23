@@ -21,7 +21,7 @@ public class TarneApplication extends SpringBootServletInitializer {
 
     @RequestMapping(value = "/")
     public String sayHello(){
-        return "Let's build some epic things !! Tomcat Started";
+        return "Let's build tarne !! Tomcat Started";
     }
 
 
