@@ -15,7 +15,7 @@ public class TarneApplication {
 
     @RequestMapping(value = "/")
     public String sayHello(){
-        return "Rahul Jaiman";
+        return "Let's build some epic things !!";
     }
 
 
