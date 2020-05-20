@@ -1,0 +1,5 @@
+2020-05-12 11:56:39.798  INFO 96389 --- [main] c.j.tarne.TarneApplicationTests          : Starting TarneApplicationTests on administrators-MacBook-Air-63.local with PID 96389 (started by rahuljaiman in /Users/rahuljaiman/Documents/tarne)
+2020-05-12 11:56:39.803  INFO 96389 --- [main] c.j.tarne.TarneApplicationTests          : No active profile set, falling back to default profiles: default
+2020-05-12 11:56:43.652  INFO 96389 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-12 11:56:44.517  INFO 96389 --- [main] c.j.tarne.TarneApplicationTests          : Started TarneApplicationTests in 6.005 seconds (JVM running for 9.478)
+2020-05-12 11:56:46.085  INFO 96389 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
